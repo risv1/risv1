@@ -6,7 +6,7 @@
 - **Development**: 
   - On the frontend, **React**, **Vue**, and **Nuxt**, along with others.
   - On the backend, **Express**, **FastAPI**, and more.
-- **Deep Learning**: **PyTorch**, **Scikit-Learn**.
+- **AI/ML**: **PyTorch**, **Scikit-Learn**.
 <!---
 risv1/risv1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
